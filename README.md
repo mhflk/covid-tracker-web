@@ -2,7 +2,8 @@
 
 **COVID Dashboard** is an interactive platform which allows users to compare and visualise up to date COVID-19 Statistics. 
 
-[View website on GitHub Pages](https://bak2k3.github.io/covid-dashboard/index.html).
+[View website on GitHub Pages](https://mhflk.github.io/covid-tracker-web/).
+[View website on netlify](https://pegucovid.netlify.app/).
 
 # Table of contents
 
